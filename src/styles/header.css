@@ -1,0 +1,12 @@
+header {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  background-color: #93859a;
+}
+
+header img {
+  width: 75px;
+  border-radius: 50px;
+  border: black 1px solid;
+}
